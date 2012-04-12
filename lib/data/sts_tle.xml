@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<tle>
+<update>Thu Nov 26 00:07:11 UTC 2009</update>
+<data_type>TLE</data_type>
+<sat_name>SpaceShuttle</sat_name>
+<first_line>1 36094U 09062A   09329.49027778  .00012767  00000-0  85587-4 0   256</first_line>
+<second_line>2 36094  51.6452 198.0229 0007676  13.8595 249.9558 15.75650330  1373</second_line>
+</tle>

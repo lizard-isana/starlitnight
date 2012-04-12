@@ -1,0 +1,814 @@
+{
+"maxi":[
+{"Name":"MAXI","ID":"maxi","Type":"point","Color":"255,0,0","points":[
+{"id":"J1249-590","label":"1A 1246-588","data_type":"radec","RAh":192.4,"DEd":-59.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1249-590"}, 
+{"id":"J1746-295","label":"1A 1742-294","data_type":"radec","RAh":266.5,"DEd":-29.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1746-295"}, 
+{"id":"J0123+343","label":"1ES 0120+340","data_type":"radec","RAh":20.8,"DEd":34.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0123+343"}, 
+{"id":"J0416+010","label":"1ES 0414+009","data_type":"radec","RAh":64.2,"DEd":1.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0416+010"}, 
+{"id":"J0507+676","label":"1ES 0502+675","data_type":"radec","RAh":77.0,"DEd":67.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0507+676"}, 
+{"id":"J0650+250","label":"1ES 0647+25.0","data_type":"radec","RAh":102.7,"DEd":25.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0650+250"}, 
+{"id":"J1015+494","label":"1ES 1011+496","data_type":"radec","RAh":153.8,"DEd":49.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1015+494"}, 
+{"id":"J1103-234","label":"1ES 1101-23.2","data_type":"radec","RAh":165.9,"DEd":-23.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1103-234"}, 
+{"id":"J1221+301","label":"1ES 1218+304","data_type":"radec","RAh":185.3,"DEd":30.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1221+301"}, 
+{"id":"J1428+426","label":"1ES 1426+428","data_type":"radec","RAh":217.1,"DEd":42.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1428+426"}, 
+{"id":"J1959+651","label":"1ES 1959+650","data_type":"radec","RAh":300.0,"DEd":65.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1959+651"}, 
+{"id":"J2323+421","label":"1ES 2321+419","data_type":"radec","RAh":351.0,"DEd":42.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2323+421"}, 
+{"id":"J0920-552","label":"1H 0918-548","data_type":"radec","RAh":140.1,"DEd":-55.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0920-552"}, 
+{"id":"J1601-607","label":"1H 1556-605","data_type":"radec","RAh":240.3,"DEd":-60.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1601-607"}, 
+{"id":"J1937-062","label":"1H 1934-063","data_type":"radec","RAh":294.4,"DEd":-6.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1937-062"}, 
+{"id":"J1709-266","label":"1RXS J170930.2-263927","data_type":"radec","RAh":257.4,"DEd":-26.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1709-266"}, 
+{"id":"J1712-408","label":"1RXS J171224.8-405034","data_type":"radec","RAh":258.1,"DEd":-40.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1712-408"}, 
+{"id":"J0922-632","label":"2S 0921-63","data_type":"radec","RAh":140.6,"DEd":-63.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0922-632"}, 
+{"id":"J1421-626","label":"2S 1417-624","data_type":"radec","RAh":215.3,"DEd":-62.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1421-626"}, 
+{"id":"J1147-619","label":"3A 1145-616","data_type":"radec","RAh":176.9,"DEd":-62.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1147-619"}, 
+{"id":"J0418+380","label":"3C 111","data_type":"radec","RAh":64.6,"DEd":38.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0418+380"}, 
+{"id":"J0433+053","label":"3C 120","data_type":"radec","RAh":68.3,"DEd":5.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0433+053"}, 
+{"id":"J0449+450","label":"3C 129","data_type":"radec","RAh":72.3,"DEd":45.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0449+450"}, 
+{"id":"J1229+020","label":"3C 273","data_type":"radec","RAh":187.3,"DEd":2.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1229+020"}, 
+{"id":"J1256-057","label":"3C 279","data_type":"radec","RAh":194.0,"DEd":-5.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1256-057"}, 
+{"id":"J1835+326","label":"3C 382","data_type":"radec","RAh":278.8,"DEd":32.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1835+326"}, 
+{"id":"J1842+797","label":"3C 390.3","data_type":"radec","RAh":280.5,"DEd":79.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1842+797"}, 
+{"id":"J2253+161","label":"3C 454.3","data_type":"radec","RAh":343.5,"DEd":16.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2253+161"}, 
+{"id":"J0222+430","label":"3C 66A","data_type":"radec","RAh":35.7,"DEd":43.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0222+430"}, 
+{"id":"J2042+751","label":"4C +74.26","data_type":"radec","RAh":310.7,"DEd":75.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2042+751"}, 
+{"id":"J1635+381","label":"4C 38.41","data_type":"radec","RAh":248.8,"DEd":38.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1635+381"}, 
+{"id":"J1222+042","label":"4C 4.42","data_type":"radec","RAh":185.6,"DEd":4.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1222+042"}, 
+{"id":"J0118+652","label":"4U 0114+65","data_type":"radec","RAh":19.5,"DEd":65.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0118+652"}, 
+{"id":"J0118+637","label":"4U 0115+63","data_type":"radec","RAh":19.6,"DEd":63.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0118+637"}, 
+{"id":"J0146+617","label":"4U 0142+61","data_type":"radec","RAh":26.6,"DEd":61.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0146+617"}, 
+{"id":"J0514-400","label":"4U 0513-40","data_type":"radec","RAh":78.5,"DEd":-40.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0514-400"}, 
+{"id":"J1139-653","label":"4U 1137-65","data_type":"radec","RAh":174.9,"DEd":-65.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1139-653"}, 
+{"id":"J1213-648","label":"4U 1210-64","data_type":"radec","RAh":183.5,"DEd":-64.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1213-648"}, 
+{"id":"J1257-692","label":"4U 1254-690","data_type":"radec","RAh":194.4,"DEd":-69.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1257-692"}, 
+{"id":"J1326-621","label":"4U 1323-619","data_type":"radec","RAh":201.7,"DEd":-62.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1326-621"}, 
+{"id":"J1347-606","label":"4U 1344-60","data_type":"radec","RAh":206.9,"DEd":-60.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1347-606"}, 
+{"id":"J1542-523","label":"4U 1538-52","data_type":"radec","RAh":235.6,"DEd":-52.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1542-523"}, 
+{"id":"J1547-476","label":"4U 1543-475","data_type":"radec","RAh":236.8,"DEd":-47.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1547-476"}, 
+{"id":"J1547-625","label":"4U 1543-624","data_type":"radec","RAh":237.0,"DEd":-62.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1547-625"}, 
+{"id":"J1612-524","label":"4U 1608-52","data_type":"radec","RAh":243.2,"DEd":-52.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1612-524"}, 
+{"id":"J1632-674","label":"4U 1626-67","data_type":"radec","RAh":248.1,"DEd":-67.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1632-674"}, 
+{"id":"J1634-473","label":"4U 1630-472","data_type":"radec","RAh":248.5,"DEd":-47.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1634-473"}, 
+{"id":"J1706+239","label":"4U 1700+24","data_type":"radec","RAh":256.6,"DEd":24.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1706+239"}, 
+{"id":"J1708-323","label":"4U 1705-32","data_type":"radec","RAh":257.2,"DEd":-32.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1708-323"}, 
+{"id":"J1708-441","label":"4U 1705-440","data_type":"radec","RAh":257.2,"DEd":-44.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1708-441"}, 
+{"id":"J1714-340","label":"4U 1711-34","data_type":"radec","RAh":258.6,"DEd":-34.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1714-340"}, 
+{"id":"J1750-370","label":"4U 1746-37","data_type":"radec","RAh":267.6,"DEd":-37.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1750-370"}, 
+{"id":"J1853-087","label":"4U 1850-086","data_type":"radec","RAh":283.3,"DEd":-8.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1853-087"}, 
+{"id":"J1918-052","label":"4U 1916-053","data_type":"radec","RAh":289.7,"DEd":-5.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1918-052"}, 
+{"id":"J1955+320","label":"4U 1954+319","data_type":"radec","RAh":298.9,"DEd":32.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1955+320"}, 
+{"id":"J1959+117","label":"4U 1957+115","data_type":"radec","RAh":299.9,"DEd":11.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1959+117"}, 
+{"id":"J2207+545","label":"4U 2206+543","data_type":"radec","RAh":332.0,"DEd":54.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2207+545"}, 
+{"id":"J0538+263","label":"A 0535+262","data_type":"radec","RAh":84.7,"DEd":26.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0538+263"}, 
+{"id":"J0622-003","label":"A 0620-00","data_type":"radec","RAh":95.7,"DEd":-0.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0622-003"}, 
+{"id":"J0056-012","label":"Abell 119","data_type":"radec","RAh":14.1,"DEd":-1.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0056-012"}, 
+{"id":"J1144+196","label":"Abell 1367","data_type":"radec","RAh":176.2,"DEd":19.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1144+196"}, 
+{"id":"J1349+265","label":"Abell 1795","data_type":"radec","RAh":207.3,"DEd":26.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1349+265"}, 
+{"id":"J1510+057","label":"Abell 2029","data_type":"radec","RAh":227.7,"DEd":5.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1510+057"}, 
+{"id":"J1523+086","label":"Abell 2063","data_type":"radec","RAh":230.8,"DEd":8.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1523+086"}, 
+{"id":"J1522+277","label":"Abell 2065","data_type":"radec","RAh":230.7,"DEd":27.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1522+277"}, 
+{"id":"J1558+272","label":"Abell 2142","data_type":"radec","RAh":239.6,"DEd":27.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1558+272"}, 
+{"id":"J1602+158","label":"Abell 2147","data_type":"radec","RAh":240.6,"DEd":15.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1602+158"}, 
+{"id":"J1615-061","label":"Abell 2163","data_type":"radec","RAh":243.9,"DEd":-6.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1615-061"}, 
+{"id":"J1628+395","label":"Abell 2199","data_type":"radec","RAh":247.2,"DEd":39.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1628+395"}, 
+{"id":"J1632+055","label":"Abell 2204","data_type":"radec","RAh":248.2,"DEd":5.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1632+055"}, 
+{"id":"J1703+787","label":"Abell 2256","data_type":"radec","RAh":255.9,"DEd":78.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1703+787"}, 
+{"id":"J1920+439","label":"Abell 2319","data_type":"radec","RAh":290.2,"DEd":44.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1920+439"}, 
+{"id":"J0152+361","label":"Abell 262","data_type":"radec","RAh":28.2,"DEd":36.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0152+361"}, 
+{"id":"J0431-614","label":"Abell 3266","data_type":"radec","RAh":67.8,"DEd":-61.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0431-614"}, 
+{"id":"J1329-316","label":"Abell 3558","data_type":"radec","RAh":202.3,"DEd":-31.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1329-316"}, 
+{"id":"J1347-329","label":"Abell 3571","data_type":"radec","RAh":206.8,"DEd":-32.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1347-329"}, 
+{"id":"J2012-568","label":"Abell 3667","data_type":"radec","RAh":303.1,"DEd":-56.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2012-568"}, 
+{"id":"J0258+135","label":"Abell 401","data_type":"radec","RAh":44.7,"DEd":13.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0258+135"}, 
+{"id":"J0413+104","label":"Abell 478","data_type":"radec","RAh":63.3,"DEd":10.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0413+104"}, 
+{"id":"J0433-133","label":"Abell 496","data_type":"radec","RAh":68.4,"DEd":-13.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0433-133"}, 
+{"id":"J0817-075","label":"Abell 644","data_type":"radec","RAh":124.4,"DEd":-7.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0817-075"}, 
+{"id":"J0908-096","label":"Abell 754","data_type":"radec","RAh":137.2,"DEd":-9.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0908-096"}, 
+{"id":"J0041-093","label":"Abell 85","data_type":"radec","RAh":10.4,"DEd":-9.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0041-093"}, 
+{"id":"J0308+409","label":"Algol","data_type":"radec","RAh":47.0,"DEd":41.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0308+409"}, 
+{"id":"J1816+498","label":"AM Her","data_type":"radec","RAh":274.1,"DEd":49.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1816+498"}, 
+{"id":"J2255-031","label":"AO Psc","data_type":"radec","RAh":343.8,"DEd":-3.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2255-031"}, 
+{"id":"J1517-243","label":"AP Lib","data_type":"radec","RAh":229.4,"DEd":-24.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1517-243"}, 
+{"id":"J1911+005","label":"Aql X-1","data_type":"radec","RAh":287.8,"DEd":0.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1911+005"}, 
+{"id":"J0516-001","label":"Ark 120","data_type":"radec","RAh":79.0,"DEd":-0.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0516-001"}, 
+{"id":"J2242+297","label":"Ark 564","data_type":"radec","RAh":340.7,"DEd":29.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2242+297"}, 
+{"id":"J2041-324","label":"AT Mic","data_type":"radec","RAh":310.5,"DEd":-32.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2041-324"}, 
+{"id":"J0037+613","label":"BD +62 70","data_type":"radec","RAh":9.3,"DEd":61.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0037+613"}, 
+{"id":"J2323+588","label":"Cas A","data_type":"radec","RAh":350.9,"DEd":58.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2323+588"}, 
+{"id":"J1325-430","label":"Cen A","data_type":"radec","RAh":201.4,"DEd":-43.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1325-430"}, 
+{"id":"J1121-606","label":"Cen X-3","data_type":"radec","RAh":170.3,"DEd":-60.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1121-606"}, 
+{"id":"J1458-316","label":"Cen X-4","data_type":"radec","RAh":224.6,"DEd":-31.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1458-316"}, 
+{"id":"J1248-413","label":"Centaurus Cluster","data_type":"radec","RAh":192.2,"DEd":-41.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1248-413"}, 
+{"id":"J2139+569","label":"Cep X-4","data_type":"radec","RAh":324.9,"DEd":57.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2139+569"}, 
+{"id":"J1520-571","label":"Cir X-1","data_type":"radec","RAh":230.2,"DEd":-57.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1520-571"}, 
+{"id":"J1324-576","label":"CIZA J1324.7-5736","data_type":"radec","RAh":201.2,"DEd":-57.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1324-576"}, 
+{"id":"J0747-192","label":"ClG 0745-1910","data_type":"radec","RAh":116.9,"DEd":-19.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0747-192"}, 
+{"id":"J1259+279","label":"Coma Cluster","data_type":"radec","RAh":195.0,"DEd":28.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1259+279"}, 
+{"id":"J0534+220","label":"Crab","data_type":"radec","RAh":83.6,"DEd":22.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0534+220"}, 
+{"id":"J1959+407","label":"Cyg A","data_type":"radec","RAh":299.9,"DEd":40.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1959+407"}, 
+{"id":"J2051+306","label":"Cyg Loop","data_type":"radec","RAh":312.8,"DEd":30.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2051+306"}, 
+{"id":"J1958+352","label":"Cyg X-1","data_type":"radec","RAh":299.6,"DEd":35.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1958+352"}, 
+{"id":"J2144+383","label":"Cyg X-2","data_type":"radec","RAh":326.2,"DEd":38.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2144+383"}, 
+{"id":"J2032+409","label":"Cyg X-3","data_type":"radec","RAh":308.1,"DEd":41.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2032+409"}, 
+{"id":"J1143+716","label":"DO Dra","data_type":"radec","RAh":175.9,"DEd":71.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1143+716"}, 
+{"id":"J2331+199","label":"EQ Peg","data_type":"radec","RAh":353.0,"DEd":19.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2331+199"}, 
+{"id":"J1921-586","label":"ESO 141-55","data_type":"radec","RAh":290.3,"DEd":-58.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1921-586"}, 
+{"id":"J1045-596","label":"Eta Car","data_type":"radec","RAh":161.3,"DEd":-59.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1045-596"}, 
+{"id":"J1252-292","label":"EX Hya","data_type":"radec","RAh":193.1,"DEd":-29.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1252-292"}, 
+{"id":"J0748-677","label":"EXO 0748-676","data_type":"radec","RAh":117.1,"DEd":-67.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0748-677"}, 
+{"id":"J2032+376","label":"EXO 2030+375","data_type":"radec","RAh":308.1,"DEd":37.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2032+376"}, 
+{"id":"J2217-083","label":"FO Aqr","data_type":"radec","RAh":334.5,"DEd":-8.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2217-083"}, 
+{"id":"J0056+607","label":"gamma Cas","data_type":"radec","RAh":14.2,"DEd":60.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0056+607"}, 
+{"id":"J0331+439","label":"GK Per","data_type":"radec","RAh":52.8,"DEd":43.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0331+439"}, 
+{"id":"J1834-087","label":"GRB110807A","data_type":"radec","RAh":278.7,"DEd":-8.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1834-087"}, 
+{"id":"J1009-582","label":"GRO J1008-57","data_type":"radec","RAh":152.4,"DEd":-58.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1009-582"}, 
+{"id":"J1654-398","label":"GRO J1655-40","data_type":"radec","RAh":253.5,"DEd":-39.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1654-398"}, 
+{"id":"J2058+417","label":"GRO J2058+42","data_type":"radec","RAh":314.7,"DEd":41.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2058+417"}, 
+{"id":"J1915+109","label":"GRS 1915+105","data_type":"radec","RAh":288.8,"DEd":10.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1915+109"}, 
+{"id":"J0835-431","label":"GS 0834-430","data_type":"radec","RAh":129.0,"DEd":-43.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0835-431"}, 
+{"id":"J1358-647","label":"GS 1354-64","data_type":"radec","RAh":209.5,"DEd":-64.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1358-647"}, 
+{"id":"J1829-237","label":"GS 1826-238","data_type":"radec","RAh":277.4,"DEd":-23.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1829-237"}, 
+{"id":"J1845+008","label":"GS 1843+00","data_type":"radec","RAh":281.4,"DEd":0.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1845+008"}, 
+{"id":"J2002+252","label":"GS 2000+251","data_type":"radec","RAh":300.7,"DEd":25.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2002+252"}, 
+{"id":"J2024+338","label":"GS 2023+338","data_type":"radec","RAh":306.0,"DEd":33.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2024+338"}, 
+{"id":"J1732-247","label":"GX 1+4","data_type":"radec","RAh":263.0,"DEd":-24.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1732-247"}, 
+{"id":"J1814-171","label":"GX 13+1","data_type":"radec","RAh":273.6,"DEd":-17.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1814-171"}, 
+{"id":"J1816-140","label":"GX 17+2","data_type":"radec","RAh":274.0,"DEd":-14.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1816-140"}, 
+{"id":"J1747-265","label":"GX 3+1","data_type":"radec","RAh":267.0,"DEd":-26.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1747-265"}, 
+{"id":"J1226-627","label":"GX 301-2","data_type":"radec","RAh":186.7,"DEd":-62.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1226-627"}, 
+{"id":"J1301-616","label":"GX 304-1","data_type":"radec","RAh":195.3,"DEd":-61.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1301-616"}, 
+{"id":"J1702-487","label":"GX 339-4","data_type":"radec","RAh":255.7,"DEd":-48.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1702-487"}, 
+{"id":"J1645-456","label":"GX 340+0","data_type":"radec","RAh":251.4,"DEd":-45.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1645-456"}, 
+{"id":"J1705-364","label":"GX 349+2","data_type":"radec","RAh":256.4,"DEd":-36.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1705-364"}, 
+{"id":"J1731-338","label":"GX 354-0_Slow-Burster with Rapid-Burster","data_type":"radec","RAh":263.0,"DEd":-33.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1731-338"}, 
+{"id":"J1801-250","label":"GX 5-1","data_type":"radec","RAh":270.3,"DEd":-25.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1801-250"}, 
+{"id":"J1801-205","label":"GX 9+1","data_type":"radec","RAh":270.4,"DEd":-20.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1801-205"}, 
+{"id":"J1731-169","label":"GX 9+9","data_type":"radec","RAh":262.9,"DEd":-17.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1731-169"}, 
+{"id":"J0617+091","label":"H 0614+091","data_type":"radec","RAh":94.3,"DEd":9.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0617+091"}, 
+{"id":"J1640-537","label":"H 1636-536","data_type":"radec","RAh":250.2,"DEd":-53.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1640-537"}, 
+{"id":"J1733-333","label":"H 1730-333_Rapid-Burster with Slow-Burster","data_type":"radec","RAh":263.4,"DEd":-33.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1733-333"}, 
+{"id":"J1738-444","label":"H 1735-444","data_type":"radec","RAh":264.7,"DEd":-44.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1738-444"}, 
+{"id":"J1746-322","label":"H 1743-322","data_type":"radec","RAh":266.6,"DEd":-32.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1746-322"}, 
+{"id":"J1825-000","label":"H 1822-000","data_type":"radec","RAh":276.3,"DEd":0.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1825-000"}, 
+{"id":"J1825-371","label":"H 1822-371","data_type":"radec","RAh":276.4,"DEd":-37.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1825-371"}, 
+{"id":"J1657+353","label":"Her X-1","data_type":"radec","RAh":254.5,"DEd":35.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1657+353"}, 
+{"id":"J1900-249","label":"HETE J1900.1-2455","data_type":"radec","RAh":285.0,"DEd":-24.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1900-249"}, 
+{"id":"J0336+005","label":"HR1099","data_type":"radec","RAh":54.2,"DEd":0.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0336+005"}, 
+{"id":"J1349-303","label":"IC 4329A","data_type":"radec","RAh":207.3,"DEd":-30.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1349-303"}, 
+{"id":"J0616+224","label":"IC 443 SNR","data_type":"radec","RAh":94.2,"DEd":22.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0616+224"}, 
+{"id":"J1301-639","label":"IGR J13020-6359","data_type":"radec","RAh":195.5,"DEd":-64.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1301-639"}, 
+{"id":"J1841-055","label":"IGR J18410-0535","data_type":"radec","RAh":280.3,"DEd":-5.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1841-055"}, 
+{"id":"J2355+286","label":"II Peg","data_type":"radec","RAh":358.8,"DEd":28.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2355+286"}, 
+{"id":"J0447-101","label":"KT Eri","data_type":"radec","RAh":72.0,"DEd":-10.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0447-101"}, 
+{"id":"J1512-323","label":"LAT J1512-3221","data_type":"radec","RAh":228.0,"DEd":-32.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1512-323"}, 
+{"id":"J0209+524","label":"LEDA 138501","data_type":"radec","RAh":32.4,"DEd":52.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0209+524"}, 
+{"id":"J0539-697","label":"LMC X-1","data_type":"radec","RAh":84.9,"DEd":-69.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0539-697"}, 
+{"id":"J0520-719","label":"LMC X-2","data_type":"radec","RAh":80.1,"DEd":-72.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0520-719"}, 
+{"id":"J0538-640","label":"LMC X-3","data_type":"radec","RAh":84.7,"DEd":-64.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0538-640"}, 
+{"id":"J0532-663","label":"LMC X-4","data_type":"radec","RAh":83.2,"DEd":-66.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0532-663"}, 
+{"id":"J0240+612","label":"LS I +61 303","data_type":"radec","RAh":40.1,"DEd":61.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0240+612"}, 
+{"id":"J0440+445","label":"LS V +44 17","data_type":"radec","RAh":70.2,"DEd":44.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0440+445"}, 
+{"id":"J2129+121","label":"M 15","data_type":"radec","RAh":322.5,"DEd":12.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2129+121"}, 
+{"id":"J0042+411","label":"M 31","data_type":"radec","RAh":10.6,"DEd":41.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0042+411"}, 
+{"id":"J1230+123","label":"M 87","data_type":"radec","RAh":187.7,"DEd":12.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1230+123"}, 
+{"id":"J0556-331","label":"MAXI J0556-332","data_type":"radec","RAh":89.2,"DEd":-33.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0556-331"}, 
+{"id":"J1408-619","label":"MAXI J1409-619","data_type":"radec","RAh":212.0,"DEd":-62.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1408-619"}, 
+{"id":"J1543-564","label":"MAXI J1543-564","data_type":"radec","RAh":235.8,"DEd":-56.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1543-564"}, 
+{"id":"J1659-152","label":"MAXI J1659-152","data_type":"radec","RAh":254.8,"DEd":-15.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1659-152"}, 
+{"id":"J1835-193","label":"MAXI J1836-194","data_type":"radec","RAh":278.9,"DEd":-19.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1835-193"}, 
+{"id":"J0554+464","label":"MCG +08-11-011","data_type":"radec","RAh":88.7,"DEd":46.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0554+464"}, 
+{"id":"J0947-309","label":"MCG -05-23-016","data_type":"radec","RAh":146.9,"DEd":-30.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0947-309"}, 
+{"id":"J1335-342","label":"MCG -06-30-15","data_type":"radec","RAh":204.0,"DEd":-34.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1335-342"}, 
+{"id":"J0626-536","label":"MRC 0625-536","data_type":"radec","RAh":96.6,"DEd":-53.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0626-536"}, 
+{"id":"J1104+382","label":"Mrk 421","data_type":"radec","RAh":166.1,"DEd":38.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1104+382"}, 
+{"id":"J1653+397","label":"Mrk 501","data_type":"radec","RAh":253.5,"DEd":39.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1653+397"}, 
+{"id":"J2044-107","label":"Mrk 509","data_type":"radec","RAh":311.0,"DEd":-10.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2044-107"}, 
+{"id":"J0632+058","label":"MWC 148","data_type":"radec","RAh":98.2,"DEd":5.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0632+058"}, 
+{"id":"J0658-072","label":"MXB 0656-072","data_type":"radec","RAh":104.6,"DEd":-7.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0658-072"}, 
+{"id":"J0242-000","label":"NGC 1068","data_type":"radec","RAh":40.7,"DEd":0.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0242-000"}, 
+{"id":"J0552-074","label":"NGC 2110","data_type":"radec","RAh":88.0,"DEd":-7.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0552-074"}, 
+{"id":"J1023+198","label":"NGC 3227","data_type":"radec","RAh":155.9,"DEd":19.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1023+198"}, 
+{"id":"J1106+725","label":"NGC 3516","data_type":"radec","RAh":166.7,"DEd":72.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1106+725"}, 
+{"id":"J1139-377","label":"NGC 3783","data_type":"radec","RAh":174.8,"DEd":-37.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1139-377"}, 
+{"id":"J1203+445","label":"NGC 4051","data_type":"radec","RAh":180.8,"DEd":44.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1203+445"}, 
+{"id":"J1210+394","label":"NGC 4151","data_type":"radec","RAh":182.6,"DEd":39.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1210+394"}, 
+{"id":"J1239-053","label":"NGC 4593","data_type":"radec","RAh":189.9,"DEd":-5.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1239-053"}, 
+{"id":"J1413-032","label":"NGC 5506","data_type":"radec","RAh":213.3,"DEd":-3.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1413-032"}, 
+{"id":"J1417+251","label":"NGC 5548","data_type":"radec","RAh":214.5,"DEd":25.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1417+251"}, 
+{"id":"J1748-203","label":"NGC 6440","data_type":"radec","RAh":267.2,"DEd":-20.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1748-203"}, 
+{"id":"J1823-303","label":"NGC 6624","data_type":"radec","RAh":275.9,"DEd":-30.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1823-303"}, 
+{"id":"J1942-103","label":"NGC 6814 with V1432 Aql","data_type":"radec","RAh":295.7,"DEd":-10.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1942-103"}, 
+{"id":"J1700-416","label":"OAO 1657-41","data_type":"radec","RAh":255.2,"DEd":-41.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1700-416"}, 
+{"id":"J0854+201","label":"OJ 287","data_type":"radec","RAh":133.7,"DEd":20.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0854+201"}, 
+{"id":"J1221+282","label":"ON 231","data_type":"radec","RAh":185.4,"DEd":28.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1221+282"}, 
+{"id":"J1712-233","label":"Ophiuchus Cluster","data_type":"radec","RAh":258.1,"DEd":-23.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1712-233"}, 
+{"id":"J0533-054","label":"Orion Nebula","data_type":"radec","RAh":83.3,"DEd":-5.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0533-054"}, 
+{"id":"J0319+415","label":"Perseus Cluster","data_type":"radec","RAh":50.0,"DEd":41.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0319+415"}, 
+{"id":"J1555+111","label":"PG 1553+113","data_type":"radec","RAh":238.9,"DEd":11.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1555+111"}, 
+{"id":"J0522-364","label":"PKS 0521-365","data_type":"radec","RAh":80.7,"DEd":-36.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0522-364"}, 
+{"id":"J2158-302","label":"PKS 2155-304","data_type":"radec","RAh":329.7,"DEd":-30.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2158-302"}, 
+{"id":"J1302-638","label":"PSR B1259-63","data_type":"radec","RAh":195.7,"DEd":-63.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1302-638"}, 
+{"id":"J1513-591","label":"PSR B1509-58","data_type":"radec","RAh":228.5,"DEd":-59.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1513-591"}, 
+{"id":"J0824-429","label":"Pup A","data_type":"radec","RAh":126.0,"DEd":-43.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0824-429"}, 
+{"id":"J1440-626","label":"RCW 86","data_type":"radec","RAh":220.1,"DEd":-62.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1440-626"}, 
+{"id":"J1117+202","label":"RGB J1117+202","data_type":"radec","RAh":169.3,"DEd":20.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1117+202"}, 
+{"id":"J1136+676","label":"RGB J1136+676","data_type":"radec","RAh":174.1,"DEd":67.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1136+676"}, 
+{"id":"J1053+494","label":"RX J1053.7+4929","data_type":"radec","RAh":163.4,"DEd":49.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1053+494"}, 
+{"id":"J1835-329","label":"RX J1832-33","data_type":"radec","RAh":278.9,"DEd":-33.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1835-329"}, 
+{"id":"J0721+713","label":"S5 0716+71","data_type":"radec","RAh":110.5,"DEd":71.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0721+713"}, 
+{"id":"J1747-288","label":"SAX J1747.0-2853","data_type":"radec","RAh":266.8,"DEd":-28.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1747-288"}, 
+{"id":"J1808-369","label":"SAX J1808.4-3658","data_type":"radec","RAh":272.1,"DEd":-37.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1808-369"}, 
+{"id":"J2103+457","label":"SAX J2103.5+4545","data_type":"radec","RAh":315.9,"DEd":45.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2103+457"}, 
+{"id":"J1619-156","label":"Sco X-1","data_type":"radec","RAh":245.0,"DEd":-15.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1619-156"}, 
+{"id":"J1839+050","label":"Ser X-1","data_type":"radec","RAh":280.0,"DEd":5.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1839+050"}, 
+{"id":"J0418+575","label":"SGR 0418+5729","data_type":"radec","RAh":64.6,"DEd":57.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0418+575"}, 
+{"id":"J1833-085","label":"SGR 1833-0832","data_type":"radec","RAh":278.4,"DEd":-8.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1833-085"}, 
+{"id":"J1738-269","label":"SLX 1735-269","data_type":"radec","RAh":264.6,"DEd":-27.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1738-269"}, 
+{"id":"J1749-332","label":"SLX 1746-331","data_type":"radec","RAh":267.5,"DEd":-33.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1749-332"}, 
+{"id":"J0117-734","label":"SMC X-1","data_type":"radec","RAh":19.3,"DEd":-73.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0117-734"}, 
+{"id":"J1502-420","label":"SN 1006","data_type":"radec","RAh":225.6,"DEd":-42.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1502-420"}, 
+{"id":"J1911+049","label":"SS 433","data_type":"radec","RAh":288.0,"DEd":5.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1911+049"}, 
+{"id":"J1111-826","label":"Swift J1112.2-8238","data_type":"radec","RAh":167.9,"DEd":-82.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1111-826"}, 
+{"id":"J1357-095","label":"Swift J1357.2-0933","data_type":"radec","RAh":209.3,"DEd":-9.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1357-095"}, 
+{"id":"J1644+575","label":"Swift J164449.3+573451","data_type":"radec","RAh":251.2,"DEd":57.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1644+575"}, 
+{"id":"J1706-617","label":"Swift J1706.6-6146","data_type":"radec","RAh":256.7,"DEd":-61.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1706-617"}, 
+{"id":"J1753-014","label":"Swift J1753.5-0127","data_type":"radec","RAh":268.4,"DEd":-1.5,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1753-014"}, 
+{"id":"J1822-160","label":"Swift J1822.3-1606","data_type":"radec","RAh":275.6,"DEd":-16.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1822-160"}, 
+{"id":"J1843-037","label":"Swift J1843.5-0343","data_type":"radec","RAh":280.9,"DEd":-3.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1843-037"}, 
+{"id":"J1922-172","label":"Swift J1922.7-1716","data_type":"radec","RAh":290.7,"DEd":-17.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1922-172"}, 
+{"id":"J2058+052","label":"Swift J2058.4+0516","data_type":"radec","RAh":314.6,"DEd":5.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2058+052"}, 
+{"id":"J2313+026","label":"SZ Psc","data_type":"radec","RAh":348.3,"DEd":2.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2313+026"}, 
+{"id":"J1727-308","label":"Terzan 2","data_type":"radec","RAh":261.9,"DEd":-30.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1727-308"}, 
+{"id":"J1748-248","label":"Terzan 5","data_type":"radec","RAh":267.2,"DEd":-24.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1748-248"}, 
+{"id":"J1638-643","label":"TrA Cluster","data_type":"radec","RAh":249.6,"DEd":-64.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1638-643"}, 
+{"id":"J0025+641","label":"Tycho SNR","data_type":"radec","RAh":6.3,"DEd":64.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0025+641"}, 
+{"id":"J0326+287","label":"UX Ari","data_type":"radec","RAh":51.6,"DEd":28.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0326+287"}, 
+{"id":"J0334+531","label":"V 0332+53","data_type":"radec","RAh":53.7,"DEd":53.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0334+531"}, 
+{"id":"J1855-311","label":"V1223 Sgr","data_type":"radec","RAh":283.8,"DEd":-31.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1855-311"}, 
+{"id":"J1726-288","label":"V2674 Oph","data_type":"radec","RAh":261.6,"DEd":-28.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1726-288"}, 
+{"id":"J2102+457","label":"V407 Cyg","data_type":"radec","RAh":315.5,"DEd":45.8,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J2102+457"}, 
+{"id":"J1819-254","label":"V4641 Sgr","data_type":"radec","RAh":274.8,"DEd":-25.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1819-254"}, 
+{"id":"J0028+592","label":"V709 Cas","data_type":"radec","RAh":7.2,"DEd":59.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0028+592"}, 
+{"id":"J0835-451","label":"Vela Pulsar and SNR","data_type":"radec","RAh":128.8,"DEd":-45.2,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0835-451"}, 
+{"id":"J0902-405","label":"Vela X-1","data_type":"radec","RAh":135.5,"DEd":-40.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0902-405"}, 
+{"id":"J0409-712","label":"VW Hyi","data_type":"radec","RAh":62.3,"DEd":-71.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0409-712"}, 
+{"id":"J0248+311","label":"VY Ari","data_type":"radec","RAh":42.2,"DEd":31.1,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0248+311"}, 
+{"id":"J0924-317","label":"X 0922-314","data_type":"radec","RAh":141.1,"DEd":-31.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0924-317"}, 
+{"id":"J0355+310","label":"X Per","data_type":"radec","RAh":58.8,"DEd":31.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0355+310"}, 
+{"id":"J1227-488","label":"XSS J12270-4859","data_type":"radec","RAh":187.0,"DEd":-48.9,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1227-488"}, 
+{"id":"J1118+480","label":"XTE J1118+480","data_type":"radec","RAh":169.5,"DEd":48.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1118+480"}, 
+{"id":"J1650-499","label":"XTE J1650-500","data_type":"radec","RAh":252.5,"DEd":-50.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1650-499"}, 
+{"id":"J1752-223","label":"XTE J1752-223","data_type":"radec","RAh":268.1,"DEd":-22.3,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1752-223"}, 
+{"id":"J1806-294","label":"XTE J1807-294","data_type":"radec","RAh":271.7,"DEd":-29.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1806-294"}, 
+{"id":"J1855-026","label":"XTE J1855-026","data_type":"radec","RAh":283.9,"DEd":-2.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1855-026"}, 
+{"id":"J1858+034","label":"XTE J1858+034","data_type":"radec","RAh":284.7,"DEd":3.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1858+034"}, 
+{"id":"J1858+226","label":"XTE J1859+226","data_type":"radec","RAh":284.7,"DEd":22.7,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1858+226"}, 
+{"id":"J1945+273","label":"XTE J1946+274","data_type":"radec","RAh":296.4,"DEd":27.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J1945+273"}, 
+{"id":"J0744+035","label":"YZ CMi","data_type":"radec","RAh":116.2,"DEd":3.6,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0744+035"}, 
+{"id":"J0542-024","label":"Zeta Ori","data_type":"radec","RAh":85.5,"DEd":-2.4,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0542-024"}, 
+{"id":"J0338+099","label":"ZwCl 0335+0956","data_type":"radec","RAh":54.6,"DEd":10.0,"url":"http://maxi.riken.jp/top/index.php?cid=1&jname=J0338+099"}
+]}
+],
+"analemma_tokyo":[
+{"Name":"Analemma(Tokyo)","ID":"analemma_tokyo","Type":"line","Color":"255,0,0","points":[
+{"id":"Fri Jan 01 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":183.96634076187559,"altitude":31.209222247756948},
+{"id":"Mon Jan 11 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":182.8466168913267,"altitude":32.444289118514135},
+{"id":"Thu Jan 21 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":181.9703299111841,"altitude":34.361594368186324},
+{"id":"Sun Jan 31 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":181.41243904371572,"altitude":36.88245701722525},
+{"id":"Wed Feb 10 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":181.23100643569063,"altitude":39.90865167492361},
+{"id":"Sat Feb 20 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":181.46651129221436,"altitude":43.32930216918874},
+{"id":"Tue Mar 02 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":182.1418624303581,"altitude":47.027299278912324},
+{"id":"Fri Mar 12 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":183.26233740122453,"altitude":50.88467945309262},
+{"id":"Mon Mar 22 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":184.81508914248124,"altitude":54.786815839952915},
+{"id":"Thu Apr 01 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":186.7660125302411,"altitude":58.62554180153822},
+{"id":"Sun Apr 11 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":189.0514750313301,"altitude":62.301493071879904},
+{"id":"Wed Apr 21 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":191.5648618294728,"altitude":65.72582849066552},
+{"id":"Sat May 01 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":194.1390344813666,"altitude":68.82114332787836},
+{"id":"Tue May 11 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":196.52712505702496,"altitude":71.52115540780083},
+{"id":"Fri May 21 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":198.3944276182276,"altitude":73.76840510572617},
+{"id":"Mon May 31 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":199.3539258298706,"altitude":75.50915543523197},
+{"id":"Thu Jun 10 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":199.08793825681346,"altitude":76.68696003850648},
+{"id":"Sun Jun 20 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":197.5560347335919,"altitude":77.24136117055163},
+{"id":"Wed Jun 30 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":195.15553970268454,"altitude":77.11985990373293},
+{"id":"Sat Jul 10 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":192.60482952749175,"altitude":76.30026273777584},
+{"id":"Tue Jul 20 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":190.55983548110788,"altitude":74.8044658625319},
+{"id":"Fri Jul 30 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":189.3246620259055,"altitude":72.6913546739043},
+{"id":"Mon Aug 09 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":188.86686943373857,"altitude":70.03963474623527},
+{"id":"Thu Aug 19 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":188.9856149903336,"altitude":66.93560156774184},
+{"id":"Sun Aug 29 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":189.4479849578442,"altitude":63.46892951523768},
+{"id":"Wed Sep 08 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":190.05080984174262,"altitude":59.732779568332866},
+{"id":"Sat Sep 18 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":190.63669823763715,"altitude":55.82490615619202},
+{"id":"Tue Sep 28 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":191.09174185151664,"altitude":51.84834555142373},
+{"id":"Fri Oct 08 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":191.3376217970042,"altitude":47.911416555348836},
+{"id":"Mon Oct 18 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":191.32429764881036,"altitude":44.12691795384203},
+{"id":"Thu Oct 28 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":191.02614975293895,"altitude":40.61020420617604},
+{"id":"Sun Nov 07 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":190.44065374404204,"altitude":37.47596462863934},
+{"id":"Wed Nov 17 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":189.58760906350267,"altitude":34.83372713679607},
+{"id":"Sat Nov 27 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":188.50851723498852,"altitude":32.782091052350346},
+{"id":"Tue Dec 07 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":187.26571381254743,"altitude":31.40203214757803},
+{"id":"Fri Dec 17 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":185.93945113960598,"altitude":30.75030015449903},
+{"id":"Mon Dec 27 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":184.6219138342179,"altitude":30.85417289530786},
+{"id":"Fri Jan 01 2010 12:00:00 GMT+0900","label":"","data_type":"horizontal","azimuth":183.96634076187559,"altitude":31.209222247756948}
+]}
+],
+"coordinates":[
+{"Name":"Galactic Coordinate","ID":"coordinates","Type":"line","Color":"0,0,255","points":[
+{"id":"0","label":"Galactic 0 degree","data_type":"radec","RAh":17.707389602070624,"DEd":-28.916790348373492}, 
+{"id":"10","label":"","data_type":"radec","RAh":18.07978983897542,"DEd":-20.297645343801364}, 
+{"id":"20","label":"","data_type":"radec","RAh":18.412355531209997,"DEd":-11.520293914539645}, 
+{"id":"30","label":"","data_type":"radec","RAh":18.724560362484336,"DEd":-2.663188199403363}, 
+{"id":"40","label":"","data_type":"radec","RAh":19.032272233521166,"DEd":6.211418484309039}, 
+{"id":"50","label":"","data_type":"radec","RAh":19.350585666984948,"DEd":15.044673454654765}, 
+{"id":"60","label":"","data_type":"radec","RAh":19.696433571716643,"DEd":23.769598133497286}, 
+{"id":"70","label":"","data_type":"radec","RAh":20.091719984992892,"DEd":32.29649473163088}, 
+{"id":"80","label":"","data_type":"radec","RAh":20.567767769251184,"DEd":40.48937814378168}, 
+{"id":"90","label":"Galactic 90 degree","data_type":"radec","RAh":21.171541516063165,"DEd":48.123434471555925}, 
+{"id":"100","label":"","data_type":"radec","RAh":21.97083094959497,"DEd":54.8092919915561}, 
+{"id":"110","label":"","data_type":"radec","RAh":23.040565078143473,"DEd":59.88964104230869}, 
+{"id":"120","label":"","data_type":"radec","RAh":24.38354115421189,"DEd":62.4489001442903}, 
+{"id":"130","label":"","data_type":"radec","RAh":1.8125951937025055,"DEd":61.78718577938505}, 
+{"id":"140","label":"","data_type":"radec","RAh":3.056520837211315,"DEd":58.10546367939313}, 
+{"id":"150","label":"","data_type":"radec","RAh":4.010791676439831,"DEd":52.283678645215815}, 
+{"id":"160","label":"","data_type":"radec","RAh":4.722489869043996,"DEd":45.15693322916415}, 
+{"id":"170","label":"","data_type":"radec","RAh":5.268249103985168,"DEd":37.26401200471097}, 
+{"id":"180","label":"Galactic 180 degree","data_type":"radec","RAh":5.707389602070622,"DEd":28.916790348373507}, 
+{"id":"190","label":"","data_type":"radec","RAh":6.079789838975416,"DEd":20.297645343801364}, 
+{"id":"200","label":"","data_type":"radec","RAh":6.412355531209997,"DEd":11.520293914539657}, 
+{"id":"210","label":"","data_type":"radec","RAh":6.724560362484337,"DEd":2.6631881994033613}, 
+{"id":"220","label":"","data_type":"radec","RAh":7.032272233521166,"DEd":-6.21141848430903}, 
+{"id":"230","label":"","data_type":"radec","RAh":7.350585666984946,"DEd":-15.044673454654765}, 
+{"id":"240","label":"","data_type":"radec","RAh":7.6964335717166446,"DEd":-23.769598133497283}, 
+{"id":"250","label":"","data_type":"radec","RAh":8.091719984992894,"DEd":-32.29649473163089}, 
+{"id":"260","label":"","data_type":"radec","RAh":8.567767769251182,"DEd":-40.48937814378168}, 
+{"id":"270","label":"Galactic 270 degree","data_type":"radec","RAh":9.171541516063167,"DEd":-48.123434471555925}, 
+{"id":"280","label":"","data_type":"radec","RAh":9.970830949594971,"DEd":-54.80929199155609}, 
+{"id":"290","label":"","data_type":"radec","RAh":11.04056507814347,"DEd":-59.889641042308675}, 
+{"id":"300","label":"","data_type":"radec","RAh":12.383541154211887,"DEd":-62.4489001442903}, 
+{"id":"310","label":"","data_type":"radec","RAh":13.81259519370251,"DEd":-61.78718577938504}, 
+{"id":"320","label":"","data_type":"radec","RAh":15.056520837211314,"DEd":-58.10546367939312}, 
+{"id":"330","label":"","data_type":"radec","RAh":16.01079167643983,"DEd":-52.283678645215815}, 
+{"id":"340","label":"","data_type":"radec","RAh":16.722489869043994,"DEd":-45.15693322916418}, 
+{"id":"350","label":"","data_type":"radec","RAh":17.26824910398517,"DEd":-37.26401200471095}, 
+{"id":"360","label":"","data_type":"radec","RAh":17.707389602070624,"DEd":-28.91679034837349},
+]},
+{"Name":"Ecliptic Coordinate","ID":"coordinates","Type":"line","Color":"255,0,0","points":[
+{"id":"Fri Jan 01 2010 00:00:00 GMT+0900","label":"Ecliptic","data_type":"radec","RAh":18.737800762491833,"DEd":-23.048004560084586}, 
+{"id":"Mon Jan 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":19.444715581310657,"DEd":-21.94376499903444}, 
+{"id":"Thu Jan 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":20.137556584814813,"DEd":-20.17316197990689}, 
+{"id":"Sun Jan 31 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":20.812350960160042,"DEd":-17.80872429845927}, 
+{"id":"Wed Feb 10 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":21.4677088364971,"DEd":-14.939186711197687}, 
+{"id":"Sat Feb 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":22.104637330705533,"DEd":-11.661969034498249}, 
+{"id":"Tue Mar 02 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":22.72606259452839,"DEd":-8.077595157875802}, 
+{"id":"Fri Mar 12 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":23.3362696600111,"DEd":-4.286458670153353}, 
+{"id":"Mon Mar 22 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":23.940386827355155,"DEd":-0.38763581510895406}, 
+{"id":"Thu Apr 01 2010 00:00:00 GMT+0900","label":"Ecliptic","data_type":"radec","RAh":0.5439522198960094,"DEd":3.5208747378048604}, 
+{"id":"Sun Apr 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":1.152538984073966,"DEd":7.341175879229742}, 
+{"id":"Wed Apr 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":1.771386346431722,"DEd":10.974433814607696}, 
+{"id":"Sat May 01 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":2.4049812722365416,"DEd":14.320447138710064}, 
+{"id":"Tue May 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":3.056559087155921,"DEd":17.278509750125597}, 
+{"id":"Fri May 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":3.7275459815970096,"DEd":19.750211514138456}, 
+{"id":"Mon May 31 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":4.417051238635671,"DEd":21.64456300354074}, 
+{"id":"Thu Jun 10 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":5.121605757263241,"DEd":22.88520600614553}, 
+{"id":"Sun Jun 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":5.835370691821463,"DEd":23.418509869928496}, 
+{"id":"Wed Jun 30 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":6.550932298602203,"DEd":23.220454747644375}, 
+{"id":"Sat Jul 10 2010 00:00:00 GMT+0900","label":"Ecliptic","data_type":"radec","RAh":7.260558806136545,"DEd":22.300045714807368}, 
+{"id":"Tue Jul 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":7.957557071582096,"DEd":20.698002564506506}, 
+{"id":"Fri Jul 30 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":8.637311020589879,"DEd":18.481218377109208}, 
+{"id":"Mon Aug 09 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":9.297756566326647,"DEd":15.734927090129927}, 
+{"id":"Thu Aug 19 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":9.939310382085047,"DEd":12.554881730497693}, 
+{"id":"Sun Aug 29 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":10.56444652971331,"DEd":9.04119873579875}, 
+{"id":"Wed Sep 08 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":11.177142649460356,"DEd":5.294516569480152}, 
+{"id":"Sat Sep 18 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":11.78234679447602,"DEd":1.4143157880878168}, 
+{"id":"Tue Sep 28 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":12.385523696073983,"DEd":-2.5011630227076194}, 
+{"id":"Fri Oct 08 2010 00:00:00 GMT+0900","label":"Ecliptic","data_type":"radec","RAh":12.992269681648057,"DEd":-6.354084182010954}, 
+{"id":"Mon Oct 18 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":13.607948348296814,"DEd":-10.045939085503765}, 
+{"id":"Thu Oct 28 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":14.237289943399926,"DEd":-13.47688982403964}, 
+{"id":"Sun Nov 07 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":14.88391378125254,"DEd":-16.546217139883687}, 
+{"id":"Wed Nov 17 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":15.549778941930558,"DEd":-19.154544669937316}, 
+{"id":"Sat Nov 27 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":16.234646604884215,"DEd":-21.208330086983118}, 
+{"id":"Tue Dec 07 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":16.935730083924163,"DEd":-22.626594608352576}, 
+{"id":"Fri Dec 17 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":17.647760281139707,"DEd":-23.348965012281806}, 
+{"id":"Mon Dec 27 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":18.363626789675422,"DEd":-23.34312086453057}, 
+{"id":"Fri Jan 01 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":18.737800762491833,"DEd":-23.048004560084586}, 
+]},
+{"Name":"Equatorial Coordinate","ID":"coordinates","Type":"line","Color":"0,255,0","points":[
+{"id":"0","label":"Equatorial 0h","data_type":"radec","RAh":0,"DEd":0},
+{"id":"0.5","label":"","data_type":"radec","RAh":0.5,"DEd":0},
+{"id":"1","label":"","data_type":"radec","RAh":1,"DEd":0},
+{"id":"1.5","label":"","data_type":"radec","RAh":1.5,"DEd":0},
+{"id":"2","label":"","data_type":"radec","RAh":2,"DEd":0},
+{"id":"2.5","label":"","data_type":"radec","RAh":2.5,"DEd":0},
+{"id":"3","label":"Equatorial 3h","data_type":"radec","RAh":3,"DEd":0},
+{"id":"3.5","label":"","data_type":"radec","RAh":3.5,"DEd":0},
+{"id":"4","label":"","data_type":"radec","RAh":4,"DEd":0},
+{"id":"4.5","label":"","data_type":"radec","RAh":4.5,"DEd":0},
+{"id":"5","label":"","data_type":"radec","RAh":5,"DEd":0},
+{"id":"5.5","label":"","data_type":"radec","RAh":5.5,"DEd":0},
+{"id":"6","label":"Equatorial 6h","data_type":"radec","RAh":6,"DEd":0},
+{"id":"6.5","label":"","data_type":"radec","RAh":6.5,"DEd":0},
+{"id":"7","label":"","data_type":"radec","RAh":7,"DEd":0},
+{"id":"7.5","label":"","data_type":"radec","RAh":7.5,"DEd":0},
+{"id":"8","label":"","data_type":"radec","RAh":8,"DEd":0},
+{"id":"8.5","label":"","data_type":"radec","RAh":8.5,"DEd":0},
+{"id":"9","label":"Equatorial 9h","data_type":"radec","RAh":9,"DEd":0},
+{"id":"9.5","label":"","data_type":"radec","RAh":9.5,"DEd":0},
+{"id":"10","label":"","data_type":"radec","RAh":10,"DEd":0},
+{"id":"10.5","label":"","data_type":"radec","RAh":10.5,"DEd":0},
+{"id":"11","label":"","data_type":"radec","RAh":11,"DEd":0},
+{"id":"11.5","label":"","data_type":"radec","RAh":11.5,"DEd":0},
+{"id":"12","label":"Equatorial 12h","data_type":"radec","RAh":12,"DEd":0},
+{"id":"12.5","label":"","data_type":"radec","RAh":12.5,"DEd":0},
+{"id":"13","label":"","data_type":"radec","RAh":13,"DEd":0},
+{"id":"13.5","label":"","data_type":"radec","RAh":13.5,"DEd":0},
+{"id":"14","label":"","data_type":"radec","RAh":14,"DEd":0},
+{"id":"14.5","label":"","data_type":"radec","RAh":14.5,"DEd":0},
+{"id":"15","label":"Equatorial 15h","data_type":"radec","RAh":15,"DEd":0},
+{"id":"15.5","label":"","data_type":"radec","RAh":15.5,"DEd":0},
+{"id":"16","label":"","data_type":"radec","RAh":16,"DEd":0},
+{"id":"16.5","label":"","data_type":"radec","RAh":16.5,"DEd":0},
+{"id":"17","label":"","data_type":"radec","RAh":17,"DEd":0},
+{"id":"17.5","label":"","data_type":"radec","RAh":17.5,"DEd":0},
+{"id":"18","label":"Equatorial 18h","data_type":"radec","RAh":18,"DEd":0},
+{"id":"18.5","label":"","data_type":"radec","RAh":18.5,"DEd":0},
+{"id":"19","label":"","data_type":"radec","RAh":19,"DEd":0},
+{"id":"19.5","label":"","data_type":"radec","RAh":19.5,"DEd":0},
+{"id":"20","label":"","data_type":"radec","RAh":20,"DEd":0},
+{"id":"20.5","label":"","data_type":"radec","RAh":20.5,"DEd":0},
+{"id":"21","label":"Equatorial 21h","data_type":"radec","RAh":21,"DEd":0},
+{"id":"21.5","label":"","data_type":"radec","RAh":21.5,"DEd":0},
+{"id":"22","label":"","data_type":"radec","RAh":22,"DEd":0},
+{"id":"22.5","label":"","data_type":"radec","RAh":22.5,"DEd":0},
+{"id":"23","label":"","data_type":"radec","RAh":23,"DEd":0},
+{"id":"23.5","label":"","data_type":"radec","RAh":23.5,"DEd":0},
+{"id":"24","label":"","data_type":"radec","RAh":24,"DEd":0}
+]}
+],
+"galactic_coordinate":[
+{"Name":"Galactic Coordinate","ID":"galactic_coordinate","Type":"line","points":[
+{"id":"0","label":"0","data_type":"radec","RAh":17.707389602070624,"DEd":-28.916790348373492}, 
+{"id":"10","label":"","data_type":"radec","RAh":18.07978983897542,"DEd":-20.297645343801364}, 
+{"id":"20","label":"","data_type":"radec","RAh":18.412355531209997,"DEd":-11.520293914539645}, 
+{"id":"30","label":"","data_type":"radec","RAh":18.724560362484336,"DEd":-2.663188199403363}, 
+{"id":"40","label":"","data_type":"radec","RAh":19.032272233521166,"DEd":6.211418484309039}, 
+{"id":"50","label":"","data_type":"radec","RAh":19.350585666984948,"DEd":15.044673454654765}, 
+{"id":"60","label":"","data_type":"radec","RAh":19.696433571716643,"DEd":23.769598133497286}, 
+{"id":"70","label":"","data_type":"radec","RAh":20.091719984992892,"DEd":32.29649473163088}, 
+{"id":"80","label":"","data_type":"radec","RAh":20.567767769251184,"DEd":40.48937814378168}, 
+{"id":"90","label":"90","data_type":"radec","RAh":21.171541516063165,"DEd":48.123434471555925}, 
+{"id":"100","label":"","data_type":"radec","RAh":21.97083094959497,"DEd":54.8092919915561}, 
+{"id":"110","label":"","data_type":"radec","RAh":23.040565078143473,"DEd":59.88964104230869}, 
+{"id":"120","label":"","data_type":"radec","RAh":24.38354115421189,"DEd":62.4489001442903}, 
+{"id":"130","label":"","data_type":"radec","RAh":1.8125951937025055,"DEd":61.78718577938505}, 
+{"id":"140","label":"","data_type":"radec","RAh":3.056520837211315,"DEd":58.10546367939313}, 
+{"id":"150","label":"","data_type":"radec","RAh":4.010791676439831,"DEd":52.283678645215815}, 
+{"id":"160","label":"","data_type":"radec","RAh":4.722489869043996,"DEd":45.15693322916415}, 
+{"id":"170","label":"","data_type":"radec","RAh":5.268249103985168,"DEd":37.26401200471097}, 
+{"id":"180","label":"180","data_type":"radec","RAh":5.707389602070622,"DEd":28.916790348373507}, 
+{"id":"190","label":"","data_type":"radec","RAh":6.079789838975416,"DEd":20.297645343801364}, 
+{"id":"200","label":"","data_type":"radec","RAh":6.412355531209997,"DEd":11.520293914539657}, 
+{"id":"210","label":"","data_type":"radec","RAh":6.724560362484337,"DEd":2.6631881994033613}, 
+{"id":"220","label":"","data_type":"radec","RAh":7.032272233521166,"DEd":-6.21141848430903}, 
+{"id":"230","label":"","data_type":"radec","RAh":7.350585666984946,"DEd":-15.044673454654765}, 
+{"id":"240","label":"","data_type":"radec","RAh":7.6964335717166446,"DEd":-23.769598133497283}, 
+{"id":"250","label":"","data_type":"radec","RAh":8.091719984992894,"DEd":-32.29649473163089}, 
+{"id":"260","label":"","data_type":"radec","RAh":8.567767769251182,"DEd":-40.48937814378168}, 
+{"id":"270","label":"270","data_type":"radec","RAh":9.171541516063167,"DEd":-48.123434471555925}, 
+{"id":"280","label":"","data_type":"radec","RAh":9.970830949594971,"DEd":-54.80929199155609}, 
+{"id":"290","label":"","data_type":"radec","RAh":11.04056507814347,"DEd":-59.889641042308675}, 
+{"id":"300","label":"","data_type":"radec","RAh":12.383541154211887,"DEd":-62.4489001442903}, 
+{"id":"310","label":"","data_type":"radec","RAh":13.81259519370251,"DEd":-61.78718577938504}, 
+{"id":"320","label":"","data_type":"radec","RAh":15.056520837211314,"DEd":-58.10546367939312}, 
+{"id":"330","label":"","data_type":"radec","RAh":16.01079167643983,"DEd":-52.283678645215815}, 
+{"id":"340","label":"","data_type":"radec","RAh":16.722489869043994,"DEd":-45.15693322916418}, 
+{"id":"350","label":"","data_type":"radec","RAh":17.26824910398517,"DEd":-37.26401200471095}, 
+{"id":"360","label":"","data_type":"radec","RAh":17.707389602070624,"DEd":-28.91679034837349}, 
+]}
+],
+"ecliptic_coordinate":[
+{"Name":"Ecliptic Coordinate","ID":"ecliptic_coordinate","Type":"line","points":[
+{"id":"Fri Jan 01 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":18.737800762491833,"DEd":-23.048004560084586}, 
+{"id":"Mon Jan 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":19.444715581310657,"DEd":-21.94376499903444}, 
+{"id":"Thu Jan 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":20.137556584814813,"DEd":-20.17316197990689}, 
+{"id":"Sun Jan 31 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":20.812350960160042,"DEd":-17.80872429845927}, 
+{"id":"Wed Feb 10 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":21.4677088364971,"DEd":-14.939186711197687}, 
+{"id":"Sat Feb 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":22.104637330705533,"DEd":-11.661969034498249}, 
+{"id":"Tue Mar 02 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":22.72606259452839,"DEd":-8.077595157875802}, 
+{"id":"Fri Mar 12 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":23.3362696600111,"DEd":-4.286458670153353}, 
+{"id":"Mon Mar 22 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":23.940386827355155,"DEd":-0.38763581510895406}, 
+{"id":"Thu Apr 01 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":0.5439522198960094,"DEd":3.5208747378048604}, 
+{"id":"Sun Apr 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":1.152538984073966,"DEd":7.341175879229742}, 
+{"id":"Wed Apr 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":1.771386346431722,"DEd":10.974433814607696}, 
+{"id":"Sat May 01 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":2.4049812722365416,"DEd":14.320447138710064}, 
+{"id":"Tue May 11 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":3.056559087155921,"DEd":17.278509750125597}, 
+{"id":"Fri May 21 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":3.7275459815970096,"DEd":19.750211514138456}, 
+{"id":"Mon May 31 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":4.417051238635671,"DEd":21.64456300354074}, 
+{"id":"Thu Jun 10 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":5.121605757263241,"DEd":22.88520600614553}, 
+{"id":"Sun Jun 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":5.835370691821463,"DEd":23.418509869928496}, 
+{"id":"Wed Jun 30 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":6.550932298602203,"DEd":23.220454747644375}, 
+{"id":"Sat Jul 10 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":7.260558806136545,"DEd":22.300045714807368}, 
+{"id":"Tue Jul 20 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":7.957557071582096,"DEd":20.698002564506506}, 
+{"id":"Fri Jul 30 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":8.637311020589879,"DEd":18.481218377109208}, 
+{"id":"Mon Aug 09 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":9.297756566326647,"DEd":15.734927090129927}, 
+{"id":"Thu Aug 19 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":9.939310382085047,"DEd":12.554881730497693}, 
+{"id":"Sun Aug 29 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":10.56444652971331,"DEd":9.04119873579875}, 
+{"id":"Wed Sep 08 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":11.177142649460356,"DEd":5.294516569480152}, 
+{"id":"Sat Sep 18 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":11.78234679447602,"DEd":1.4143157880878168}, 
+{"id":"Tue Sep 28 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":12.385523696073983,"DEd":-2.5011630227076194}, 
+{"id":"Fri Oct 08 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":12.992269681648057,"DEd":-6.354084182010954}, 
+{"id":"Mon Oct 18 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":13.607948348296814,"DEd":-10.045939085503765}, 
+{"id":"Thu Oct 28 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":14.237289943399926,"DEd":-13.47688982403964}, 
+{"id":"Sun Nov 07 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":14.88391378125254,"DEd":-16.546217139883687}, 
+{"id":"Wed Nov 17 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":15.549778941930558,"DEd":-19.154544669937316}, 
+{"id":"Sat Nov 27 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":16.234646604884215,"DEd":-21.208330086983118}, 
+{"id":"Tue Dec 07 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":16.935730083924163,"DEd":-22.626594608352576}, 
+{"id":"Fri Dec 17 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":17.647760281139707,"DEd":-23.348965012281806}, 
+{"id":"Mon Dec 27 2010 00:00:00 GMT+0900","label":"","data_type":"radec","RAh":18.363626789675422,"DEd":-23.34312086453057}, 
+]}
+],
+"hayabusa_2010-01to06":[
+{"Name":"Hayabusa 2010.01-2010.06","ID":"hayabusa_2010-01to06","Type":"line","points":[
+{"id":"","label":"2010.01.07 Hayabusa","data_type":"radec","RAh":9.7733,"DEd":16.66},
+{"id":"","label":"","data_type":"radec","RAh":9.7739,"DEd":17.35}, //2010.01.14
+{"id":"","label":"","data_type":"radec","RAh":9.7239,"DEd":18.39}, //2010.01.21
+{"id":"","label":"","data_type":"radec","RAh":9.6181,"DEd":19.80}, //2010.01.28
+{"id":"","label":"2010.02.04","data_type":"radec","RAh":9.4539,"DEd":21.53},
+{"id":"","label":"","data_type":"radec","RAh":9.2347,"DEd":23.47}, //2010.02.11
+{"id":"","label":"","data_type":"radec","RAh":8.9753,"DEd":25.43}, //2010.02.18
+{"id":"","label":"","data_type":"radec","RAh":8.7028,"DEd":27.22}, //2010.02.25
+{"id":"","label":"2010.03.04","data_type":"radec","RAh":8.4467,"DEd":28.67},
+{"id":"","label":"","data_type":"radec","RAh":8.2300,"DEd":29.75}, //2010.03.11
+{"id":"","label":"","data_type":"radec","RAh":8.0714,"DEd":30.46}, //2010.03.18
+{"id":"","label":"","data_type":"radec","RAh":7.9781,"DEd":30.88}, //2010.03.25
+{"id":"","label":"2010.04.01","data_type":"radec","RAh":7.9428,"DEd":31.05},
+{"id":"","label":"","data_type":"radec","RAh":8.0153,"DEd":31.04}, //2010.04.15
+{"id":"","label":"","data_type":"radec","RAh":8.1039,"DEd":30.90}, //2010.04.22
+{"id":"","label":"","data_type":"radec","RAh":8.2264,"DEd":30.68}, //2010.04.29
+{"id":"","label":"2010.05.06","data_type":"radec","RAh":8.3231,"DEd":30.51},
+{"id":"","label":"","data_type":"radec","RAh":8.4344,"DEd":30.31}, //2010.05.13
+{"id":"","label":"","data_type":"radec","RAh":8.5397,"DEd":30.11}, //2010.05.20
+{"id":"","label":"","data_type":"radec","RAh":8.6286,"DEd":29.96}, //2010.05.27
+{"id":"","label":"2010.06.03","data_type":"radec","RAh":8.6919,"DEd":29.87},
+{"id":"","label":"","data_type":"radec","RAh":8.6992,"DEd":29.87}, //2010.06.04
+{"id":"","label":"","data_type":"radec","RAh":8.7058,"DEd":29.86}, //2010.06.05
+{"id":"","label":"","data_type":"radec","RAh":8.7119,"DEd":29.85}, //2010.06.06
+{"id":"","label":"","data_type":"radec","RAh":8.7186,"DEd":29.83}, //2010.06.07
+{"id":"","label":"","data_type":"radec","RAh":8.7253,"DEd":29.82}, //2010.06.08
+{"id":"","label":"","data_type":"radec","RAh":8.7333,"DEd":29.79}, //2010.06.09
+{"id":"","label":"","data_type":"radec","RAh":8.7444,"DEd":29.75}, //2010.06.10
+{"id":"","label":"","data_type":"radec","RAh":8.7611,"DEd":29.69}, //2010.06.11
+{"id":"","label":"","data_type":"radec","RAh":8.7964,"DEd":29.54}, //2010.06.12
+{"id":"","label":"2010.06.13","data_type":"radec","RAh":8.9344,"DEd":28.93},
+]}
+],
+"hayabusa_final_approach_tokyo":[
+{"Name":"Hayabusa Final Approach from Tokyo","ID":"hayabusa_final_approach_tokyo","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8298 ,"DEd":29.2630}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8323 ,"DEd":29.3000}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8327 ,"DEd":29.3360}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8309 ,"DEd":29.3670}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8273 ,"DEd":29.3900}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8221 ,"DEd":29.4000}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.8159 ,"DEd":29.3950}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8091 ,"DEd":29.3720}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8025 ,"DEd":29.3310}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7968 ,"DEd":29.2710}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7928 ,"DEd":29.1940}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7910 ,"DEd":29.1010}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.7921 ,"DEd":28.9960}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7965 ,"DEd":28.8840}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8045 ,"DEd":28.7680}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8160 ,"DEd":28.6530}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8311 ,"DEd":28.5440}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8494 ,"DEd":28.4460}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.8705 ,"DEd":28.3610}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8937 ,"DEd":28.2930}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9185 ,"DEd":28.2430}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9439 ,"DEd":28.2110}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9692 ,"DEd":28.1980}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9935 ,"DEd":28.1990}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":9.0159 ,"DEd":28.2100}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0359 ,"DEd":28.2250}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0528 ,"DEd":28.2350}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0665 ,"DEd":28.2280}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0769 ,"DEd":28.1880}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0847 ,"DEd":28.0970}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":9.0910 ,"DEd":27.9280}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0980 ,"DEd":27.6490}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1089 ,"DEd":27.2090}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1293 ,"DEd":26.5310}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1685 ,"DEd":25.4680}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2444 ,"DEd":23.7000}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.4007 ,"DEd":20.2990}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":9.7979 ,"DEd":10.6770}, //2010-06-13T13:00:00.000
+]}
+],
+"hayabusa_final_approach_kitami":[
+{"Name":"Hayabusa Final Approach from Kitami","ID":"hayabusa_final_approach_kitami","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8263 ,"DEd":29.2290}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8282 ,"DEd":29.2590}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8283 ,"DEd":29.2860}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8265 ,"DEd":29.3090}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8232 ,"DEd":29.3220}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8186 ,"DEd":29.3230}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.8132 ,"DEd":29.3110}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8076 ,"DEd":29.2820}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8023 ,"DEd":29.2370}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7980 ,"DEd":29.1750}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7954 ,"DEd":29.0980}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7949 ,"DEd":29.0070}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.7971 ,"DEd":28.9070}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8024 ,"DEd":28.8010}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8108 ,"DEd":28.6920}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8225 ,"DEd":28.5850}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8371 ,"DEd":28.4830}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8547 ,"DEd":28.3920}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.8745 ,"DEd":28.3120}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8962 ,"DEd":28.2460}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9190 ,"DEd":28.1960}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9423 ,"DEd":28.1610}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9652 ,"DEd":28.1400}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9871 ,"DEd":28.1290}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":9.0073 ,"DEd":28.1230}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0253 ,"DEd":28.1160}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0407 ,"DEd":28.0970}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0534 ,"DEd":28.0560}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0637 ,"DEd":27.9780}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0723 ,"DEd":27.8420}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":9.0806 ,"DEd":27.6240}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0909 ,"DEd":27.2900}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1066 ,"DEd":26.7890}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1335 ,"DEd":26.0380}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1814 ,"DEd":24.8830}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2695 ,"DEd":22.9810}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.4451 ,"DEd":19.3310}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":9.8864 ,"DEd":9.0000}, //2010-06-13T13:00:00.000
+]}
+],
+"hayabusa_final_approach_sendai":[
+{"Name":"Hayabusa Final Approach from Sendai","ID":"hayabusa_final_approach_sendai","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8287 ,"DEd":29.2510}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8311 ,"DEd":29.2860}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8313 ,"DEd":29.3200}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8296 ,"DEd":29.3480}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8261 ,"DEd":29.3680}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8211 ,"DEd":29.3750}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.8151 ,"DEd":29.3680}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8086 ,"DEd":29.3430}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8024 ,"DEd":29.3010}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7971 ,"DEd":29.2400}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7935 ,"DEd":29.1620}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7921 ,"DEd":29.0700}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.7936 ,"DEd":28.9670}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7983 ,"DEd":28.8560}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8063 ,"DEd":28.7420}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8179 ,"DEd":28.6300}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8329 ,"DEd":28.5230}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8510 ,"DEd":28.4260}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.8718 ,"DEd":28.3430}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8946 ,"DEd":28.2760}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9187 ,"DEd":28.2260}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9435 ,"DEd":28.1930}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9681 ,"DEd":28.1770}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9916 ,"DEd":28.1740}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":9.0134 ,"DEd":28.1800}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0327 ,"DEd":28.1890}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0491 ,"DEd":28.1900}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0625 ,"DEd":28.1720}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0729 ,"DEd":28.1200}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0809 ,"DEd":28.0140}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":9.0877 ,"DEd":27.8300}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0957 ,"DEd":27.5330}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1081 ,"DEd":27.0730}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1304 ,"DEd":26.3710}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1721 ,"DEd":25.2770}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2517 ,"DEd":23.4650}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.4139 ,"DEd":19.9800}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":9.8245 ,"DEd":10.1180}, //2010-06-13T13:00:00.000
+]}
+],
+"hayabusa_final_approach_bisei":[
+{"Name":"Hayabusa Final Approach from Bisei","ID":"hayabusa_final_approach_bisei","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8299 ,"DEd":29.2480}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8332 ,"DEd":29.2850}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8345 ,"DEd":29.3230}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8336 ,"DEd":29.3580}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8307 ,"DEd":29.3850}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8259 ,"DEd":29.4010}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.8199 ,"DEd":29.4030}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8131 ,"DEd":29.3870}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8061 ,"DEd":29.3530}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7998 ,"DEd":29.3000}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7949 ,"DEd":29.2280}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7921 ,"DEd":29.1390}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.7919 ,"DEd":29.0360}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7951 ,"DEd":28.9230}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8017 ,"DEd":28.8050}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8121 ,"DEd":28.6860}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8262 ,"DEd":28.5710}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8438 ,"DEd":28.4650}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.8645 ,"DEd":28.3720}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8877 ,"DEd":28.2940}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9128 ,"DEd":28.2340}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9390 ,"DEd":28.1940}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9655 ,"DEd":28.1720}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9913 ,"DEd":28.1660}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":9.0158 ,"DEd":28.1740}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0381 ,"DEd":28.1880}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0575 ,"DEd":28.2000}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0738 ,"DEd":28.2000}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0869 ,"DEd":28.1720}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0971 ,"DEd":28.0980}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":9.1055 ,"DEd":27.9530}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1140 ,"DEd":27.7040}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1257 ,"DEd":27.3000}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1457 ,"DEd":26.6650}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1831 ,"DEd":25.6530}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2555 ,"DEd":23.9500}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.4059 ,"DEd":20.6360}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":9.7936 ,"DEd":11.1190}, //2010-06-13T13:00:00.000
+]}
+],
+"hayabusa_final_approach_ishigakijima":[
+{"Name":"Hayabusa Final Approach from Ishigakijima","ID":"hayabusa_final_approach_ishigakijima","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8319 ,"DEd":29.2770}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8369 ,"DEd":29.3200}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8396 ,"DEd":29.3670}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8399 ,"DEd":29.4120}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8378 ,"DEd":29.4530}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8335 ,"DEd":29.4840}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.8272 ,"DEd":29.5010}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8197 ,"DEd":29.5010}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8115 ,"DEd":29.4800}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8035 ,"DEd":29.4390}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7965 ,"DEd":29.3760}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7914 ,"DEd":29.2930}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.7889 ,"DEd":29.1920}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7896 ,"DEd":29.0780}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7941 ,"DEd":28.9540}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8027 ,"DEd":28.8260}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8156 ,"DEd":28.7000}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8325 ,"DEd":28.5820}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.8533 ,"DEd":28.4750}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8774 ,"DEd":28.3850}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9041 ,"DEd":28.3140}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9327 ,"DEd":28.2660}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9622 ,"DEd":28.2400}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9917 ,"DEd":28.2370}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":9.0204 ,"DEd":28.2530}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0471 ,"DEd":28.2840}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0711 ,"DEd":28.3240}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0919 ,"DEd":28.3610}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1089 ,"DEd":28.3830}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1224 ,"DEd":28.3730}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":9.1328 ,"DEd":28.3060}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1417 ,"DEd":28.1510}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1517 ,"DEd":27.8630}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1675 ,"DEd":27.3700}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1973 ,"DEd":26.5430}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2576 ,"DEd":25.1040}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.3876 ,"DEd":22.2500}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":9.7328 ,"DEd":13.9140}, //2010-06-13T13:00:00.000
+]}
+],
+"hayabusa_final_approach_maunakea":[
+{"Name":"Hayabusa Final Approach from Mauna Kea","ID":"hayabusa_final_approach_maunakea","Type":"line","points":[
+{"id":"","label":"2010-06-12T00:00","data_type":"radec","RAh":8.8151 ,"DEd":29.5910}, //2010-06-12T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8085 ,"DEd":29.6040}, //2010-06-12T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8011 ,"DEd":29.6010}, //2010-06-12T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7933 ,"DEd":29.5790}, //2010-06-12T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7861 ,"DEd":29.5400}, //2010-06-12T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7799 ,"DEd":29.4820}, //2010-06-12T05:00:00.000
+{"id":"","label":"2010-06-12T06:00","data_type":"radec","RAh":8.7757 ,"DEd":29.4080}, //2010-06-12T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7739 ,"DEd":29.3220}, //2010-06-12T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7752 ,"DEd":29.2260}, //2010-06-12T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7797 ,"DEd":29.1250}, //2010-06-12T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7877 ,"DEd":29.0250}, //2010-06-12T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.7991 ,"DEd":28.9310}, //2010-06-12T11:00:00.000
+{"id":"","label":"2010-06-12T12:00","data_type":"radec","RAh":8.8135 ,"DEd":28.8460}, //2010-06-12T12:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8307 ,"DEd":28.7760}, //2010-06-12T13:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8500 ,"DEd":28.7240}, //2010-06-12T14:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8706 ,"DEd":28.6910}, //2010-06-12T15:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.8917 ,"DEd":28.6810}, //2010-06-12T16:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9125 ,"DEd":28.6910}, //2010-06-12T17:00:00.000
+{"id":"","label":"2010-06-12T18:00","data_type":"radec","RAh":8.9321 ,"DEd":28.7220}, //2010-06-12T18:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9494 ,"DEd":28.7690}, //2010-06-12T19:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9637 ,"DEd":28.8290}, //2010-06-12T20:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9744 ,"DEd":28.8960}, //2010-06-12T21:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9810 ,"DEd":28.9600}, //2010-06-12T22:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9831 ,"DEd":29.0130}, //2010-06-12T23:00:00.000
+{"id":"","label":"2010-06-13T00:00","data_type":"radec","RAh":8.9811 ,"DEd":29.0440}, //2010-06-13T00:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9754 ,"DEd":29.0400}, //2010-06-13T01:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9669 ,"DEd":28.9900}, //2010-06-13T02:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9571 ,"DEd":28.8790}, //2010-06-13T03:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9481 ,"DEd":28.6940}, //2010-06-13T04:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9424 ,"DEd":28.4200}, //2010-06-13T05:00:00.000
+{"id":"","label":"2010-06-13T06:00","data_type":"radec","RAh":8.9431 ,"DEd":28.0400}, //2010-06-13T06:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9544 ,"DEd":27.5340}, //2010-06-13T07:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":8.9815 ,"DEd":26.8660}, //2010-06-13T08:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.0320 ,"DEd":25.9790}, //2010-06-13T09:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.1182 ,"DEd":24.7530}, //2010-06-13T10:00:00.000
+{"id":"","label":"","data_type":"radec","RAh":9.2641 ,"DEd":22.9170}, //2010-06-13T11:00:00.000
+{"id":"","label":"2010-06-13T12:00","data_type":"radec","RAh":9.5282 ,"DEd":19.6850}, //2010-06-13T12:00:00.000
+{"id":"","label":"2010-06-13T13:00","data_type":"radec","RAh":10.1217 ,"DEd":11.5870}, //2010-06-13T13:00:00.000
+]}
+]
+}

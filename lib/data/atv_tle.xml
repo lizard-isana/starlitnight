@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<tle>
+<update>Wed Jul 15 13:25:32 UTC 2009</update>
+<data_type>TLE</data_type>
+<sat_name>ATV/Jules Verne</sat_name>
+<first_line>1 25544U 98067A   09195.48562196  .00009423  00000-0  67956-4 0  2151</first_line>
+<second_line>2 25544  51.6378 166.7075 0007227 222.5483 233.2921 15.74351011610252</second_line>
+</tle>

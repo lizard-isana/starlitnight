@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<tle>
+<update>Mon May 02 08:28:11 UTC 2011</update>
+<data_type>TLE</data_type>
+<sat_name>Hubble Space Telescope</sat_name>
+<first_line>1 20580U 90037B   11120.92064018  .00001355  00000-0  90098-4 0  7564</first_line>
+<second_line>2 20580  28.4711 325.2015 0003452 336.7584  23.2871 15.01319071952544</second_line>
+</tle>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<tle>
+<update>Tue Jul 07 14:25:56 UTC 2009</update>
+<data_type>TLE</data_type>
+<sat_name>Soyuz-TMA</sat_name>
+<first_line>1 35010U 09030A   09186.76961806  .00009316  00000-0  67643-4 0   392</first_line>
+<second_line>2 35010  51.6388 211.4837 0007884 188.4336 157.2626 15.74205250  6194</second_line>
+</tle>
